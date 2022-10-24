@@ -12,4 +12,5 @@ hello sunao!hello git!
 hello sunao!hello git!
 hello sunao!hello git!
 hello sunao!hello git! master-txt
-hello sunao!hello git!
+hello sunao!hello git! hot-fix test
+
